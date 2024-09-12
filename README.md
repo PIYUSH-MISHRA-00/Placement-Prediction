@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Link to the project : [Link](https://placement-prediction-2s70.onrender.com)
+
 # Student Placement Predictor
 
 This project predicts whether a student will get placed based on their CGPA and IQ using a machine learning model. The project includes a trained model, a Streamlit application for prediction, and is fully containerized using Docker.
